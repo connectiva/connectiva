@@ -1,16 +1,16 @@
-### Hi there 👋
+```
+std::cout << "Olá mundo. Sejam bem vindos!";
+```
 
-<!--
-**connectiva/connectiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A CONNECTIVA REDES é uma empresa de tenologia que atua a mais de 10 anos no mercado.
+##### Possui profissionais com mais de 20 anos de experiência nas aéres de redes e suprte técnico.
 
-Here are some ideas to get you started:
+- 🕸️ Trabalhamos com redes Linux, Windows e MikroTik
+- 🔭 Suporte técnico empresarial de qualidade
+- 🏫 Cursos e treinamentos para sua empresa
+- 📫 Fale conosco:
+- - WhatsApp (35) 99169-1920
+- - 📱 (35) 3822-4271 
+- - 📧 suporte [at] connectivaredes com
+- - 🌐 https://connectivaredes.com/site/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
