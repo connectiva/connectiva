@@ -12,5 +12,5 @@ std::cout << "Olá mundo. Sejam bem vindos!";
 - - WhatsApp (35) 99169-1920
 - - 📱 (35) 3822-4271 
 - - 📧 suporte [at] connectivaredes com
-- - 🌐 https://connectivaredes.com/site/
+- - 🌐 https://www.connectivaredes.com/
 
